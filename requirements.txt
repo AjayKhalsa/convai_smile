@@ -1,0 +1,15 @@
+numpy==1.19.1
+pandas==1.0.0
+scikit-learn==0.22.1
+python-telegram-bot==12.7
+simpletransformers==0.47.4
+transformers==3.0.2
+python-dotenv
+tqdm==4.48.2
+pillow==7.2.0
+uvicorn==0.11.8
+fastapi==0.54.0
+aiofiles==0.5.0
+python-multipart==0.0.5
+#torch==1.6.0 (mentioned)
+torch ==1.8.1
